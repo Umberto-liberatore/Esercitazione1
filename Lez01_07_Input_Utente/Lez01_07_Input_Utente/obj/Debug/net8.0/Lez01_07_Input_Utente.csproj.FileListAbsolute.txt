@@ -1,0 +1,14 @@
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\bin\Debug\net8.0\Lez01_07_Input_Utente.exe
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\bin\Debug\net8.0\Lez01_07_Input_Utente.deps.json
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\bin\Debug\net8.0\Lez01_07_Input_Utente.runtimeconfig.json
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\bin\Debug\net8.0\Lez01_07_Input_Utente.dll
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\bin\Debug\net8.0\Lez01_07_Input_Utente.pdb
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.AssemblyInfoInputs.cache
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.AssemblyInfo.cs
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.csproj.CoreCompileInputs.cache
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.dll
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\refint\Lez01_07_Input_Utente.dll
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.pdb
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\Lez01_07_Input_Utente.genruntimeconfig.cache
+C:\Users\u.liberatore\source\repos\Lez01_07_Input_Utente\Lez01_07_Input_Utente\obj\Debug\net8.0\ref\Lez01_07_Input_Utente.dll

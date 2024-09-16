@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u.liberatore\\source\\repos\\Lez04_03_statici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186CAB19-B86A-4952-8FC6-AE754EEDA6F5}|Lez04_03_statici\\Lez04_03_statici.csproj|c:\\users\\u.liberatore\\source\\repos\\lez04_03_statici\\lez04_03_statici\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CAB19-B86A-4952-8FC6-AE754EEDA6F5}|Lez04_03_statici\\Lez04_03_statici.csproj|solutionrelative:lez04_03_statici\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CAB19-B86A-4952-8FC6-AE754EEDA6F5}|Lez04_03_statici\\Lez04_03_statici.csproj|c:\\users\\u.liberatore\\source\\repos\\lez04_03_statici\\lez04_03_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CAB19-B86A-4952-8FC6-AE754EEDA6F5}|Lez04_03_statici\\Lez04_03_statici.csproj|solutionrelative:lez04_03_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez04_03_statici\\Lez04_03_statici\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Lez04_03_statici\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez04_03_statici\\Lez04_03_statici\\Classes\\Studente.cs",
+              "RelativeToolTip": "Lez04_03_statici\\Classes\\Studente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:20:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez04_03_statici\\Lez04_03_statici\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_03_statici\\Program.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez04_03_statici\\Lez04_03_statici\\Program.cs",
+              "RelativeToolTip": "Lez04_03_statici\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:11:44.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

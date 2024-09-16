@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_07_interfacce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620C68AF-5BAD-4CE8-92EE-28E62C39EE00}|Lez_03_07_interfacce\\Lez_03_07_interfacce.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_07_interfacce\\lez_03_07_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620C68AF-5BAD-4CE8-92EE-28E62C39EE00}|Lez_03_07_interfacce\\Lez_03_07_interfacce.csproj|solutionrelative:lez_03_07_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_07_interfacce\\Lez_03_07_interfacce\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_07_interfacce\\Program.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_07_interfacce\\Lez_03_07_interfacce\\Program.cs",
+              "RelativeToolTip": "Lez_03_07_interfacce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:08:05.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

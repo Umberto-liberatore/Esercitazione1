@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LEz 03_03_Costruttori/1.0.0": {
+        "runtime": {
+          "LEz 03_03_Costruttori.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LEz 03_03_Costruttori/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

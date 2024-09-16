@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lezo1_06_Task_Temperatura/1.0.0": {
+        "runtime": {
+          "Lezo1_06_Task_Temperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lezo1_06_Task_Temperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

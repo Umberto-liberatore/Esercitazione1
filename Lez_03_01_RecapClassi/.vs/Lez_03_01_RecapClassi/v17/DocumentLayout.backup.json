@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_01_recapclassi\\lez_03_01_recapclassi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|solutionrelative:lez_03_01_recapclassi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_01_recapclassi\\lez_03_01_recapclassi\\nuova cartella\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|solutionrelative:lez_03_01_recapclassi\\nuova cartella\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_01_recapclassi\\lez_03_01_recapclassi\\lez_03_01_recapclassi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A9FE40E-A299-4E7D-B530-7949933ABFAA}|Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj|solutionrelative:lez_03_01_recapclassi\\lez_03_01_recapclassi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lez_03_01_RecapClassi",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj",
+              "RelativeDocumentMoniker": "Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj",
+              "RelativeToolTip": "Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T07:20:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_01_RecapClassi\\Program.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Program.cs*",
+              "RelativeToolTip": "Lez_03_01_RecapClassi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:09:36.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e0bd70a4-9907-492d-90bf-55608067c851",
+        "Display": 0,
+        "X": 763,
+        "Y": 0,
+        "Width": 778,
+        "Height": 821,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bottiglia.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Nuova cartella\\Bottiglia.cs",
+              "RelativeDocumentMoniker": "Lez_03_01_RecapClassi\\Nuova cartella\\Bottiglia.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_01_RecapClassi\\Lez_03_01_RecapClassi\\Nuova cartella\\Bottiglia.cs",
+              "RelativeToolTip": "Lez_03_01_RecapClassi\\Nuova cartella\\Bottiglia.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:10:24.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

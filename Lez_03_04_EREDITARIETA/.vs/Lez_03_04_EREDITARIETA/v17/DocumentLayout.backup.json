@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_04_ereditarieta\\lez_03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|solutionrelative:lez_03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_04_ereditarieta\\lez_03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|solutionrelative:lez_03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_04_ereditarieta\\lez_03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|solutionrelative:lez_03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_04_ereditarieta\\lez_03_04_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE2B51-8DEE-4626-9560-F6E384A5EA0D}|Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA.csproj|solutionrelative:lez_03_04_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Docente.cs",
+              "RelativeDocumentMoniker": "Lez_03_04_EREDITARIETA\\Classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Docente.cs*",
+              "RelativeToolTip": "Lez_03_04_EREDITARIETA\\Classes\\Docente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:05:14.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez_03_04_EREDITARIETA\\Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Persona.cs*",
+              "RelativeToolTip": "Lez_03_04_EREDITARIETA\\Classes\\Persona.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_04_EREDITARIETA\\Program.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Program.cs",
+              "RelativeToolTip": "Lez_03_04_EREDITARIETA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:25.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "97b1e5ff-6ad3-4760-bebe-7682c4c550ed",
+        "Display": 0,
+        "X": 158,
+        "Y": 105,
+        "Width": 1382,
+        "Height": 568,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Lez_03_04_EREDITARIETA\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_04_EREDITARIETA\\Lez_03_04_EREDITARIETA\\Classes\\Studente.cs*",
+              "RelativeToolTip": "Lez_03_04_EREDITARIETA\\Classes\\Studente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:55:38.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

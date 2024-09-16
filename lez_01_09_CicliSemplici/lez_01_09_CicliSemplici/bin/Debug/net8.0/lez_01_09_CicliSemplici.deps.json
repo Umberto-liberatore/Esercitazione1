@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lez_01_09_CicliSemplici/1.0.0": {
+        "runtime": {
+          "lez_01_09_CicliSemplici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez_01_09_CicliSemplici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

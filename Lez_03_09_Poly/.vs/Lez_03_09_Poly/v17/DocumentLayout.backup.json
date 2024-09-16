@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_09_Poly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E4BC90-BE3E-4DE1-8804-F27207BCB92F}|Lez_03_09_Poly\\Lez_03_09_Poly.csproj|c:\\users\\u.liberatore\\source\\repos\\lez_03_09_poly\\lez_03_09_poly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E4BC90-BE3E-4DE1-8804-F27207BCB92F}|Lez_03_09_Poly\\Lez_03_09_Poly.csproj|solutionrelative:lez_03_09_poly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_09_Poly\\Lez_03_09_Poly\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_09_Poly\\Program.cs",
+              "ToolTip": "C:\\Users\\u.liberatore\\source\\repos\\Lez_03_09_Poly\\Lez_03_09_Poly\\Program.cs",
+              "RelativeToolTip": "Lez_03_09_Poly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:11:22.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
